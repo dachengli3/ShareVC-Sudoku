@@ -5,7 +5,7 @@ Built using Python 3.8 on PyCharm community
 Various boards are available 'easy', 'debug', 'hard', and 'free'
 
 Run with 
-`<$ python sudoku.py --board (name)>`
+`$ python sudoku.py --board (name)`
 
 Todo
 1. Implement random sukoku board generator
